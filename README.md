@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+
+Publish GHPages using [this](https://www.geeksforgeeks.org/how-to-deploy-your-react-websites-on-github/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
